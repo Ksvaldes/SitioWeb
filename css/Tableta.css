@@ -1,0 +1,10 @@
+.section-movil{
+    max-width: 768px;
+    padding: 0 5rem;
+}
+.section-ram{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
