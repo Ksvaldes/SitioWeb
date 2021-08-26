@@ -1,0 +1,92 @@
+.BG-login{
+    background-color: #7292cf;
+    background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
+    padding-top: 10rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.banner-login img{
+    width: 29.5rem;
+    align-items: flex-end;
+
+}
+.banner-login h2{
+    color: var(--Blanco);
+    font-size: var(--size1);
+    font-weight: 600;
+
+}
+.banner-login span{
+    font-size: var(--size3);
+    font-weight: 0;
+    color: var(--Blanco);
+}
+
+.Formulario-login{
+    background-color: var(--Blanco);
+    border-radius: 4rem 4rem 0rem 0rem;
+    padding: 3rem;
+
+}
+
+.Formulario{
+    width: 31.5rem;
+    margin: auto;
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.Label-formulario{
+    font-size: 1.6rem;
+    color: var(--GrisClaro);
+    margin-bottom: 3.5rem;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Label-formulario input{
+    width: 100%;
+    height: 4rem;
+    border: none;
+    border-bottom: 1px solid var(--GrisClaro);
+    outline: none;
+    font-size: var(--Parrafo);
+
+}
+
+.Formulario-boton{
+    height: 5.4rem;
+    background-color: #7292cf;
+    background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
+    border-radius: 1rem;
+    color: var(--Blanco);
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+
+    cursor: pointer;
+    border-style: none;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+
+}
+.Imagen2{
+    width: 4.5rem;
+}
+
+.Mensaje{
+    color: var(--GrisOscuro);
+    font-size: var(--Parrafo);
+    margin-top: 2rem;
+    align-self: flex-end;}
