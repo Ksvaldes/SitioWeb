@@ -1,33 +1,41 @@
 .BG-login{
     background-color: #7292cf;
     background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
-    padding-top: 10rem;
+    padding-top: 3rem;
 
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.banner-login img{
-    width: 29.5rem;
-    align-items: flex-end;
+.login img{
+    width: 30rem;
+    align-items: center;
+    margin: auto;
+    position:absolute;
+    z-index: 1;
+    top: 40px;
+    left : 60px;
+
 
 }
-.banner-login h2{
-    color: var(--Blanco);
+.Formulario-login h2{
+    color: var(--GrisOscuro);
     font-size: var(--size1);
     font-weight: 600;
+    margin-top: 5rem;
 
 }
-.banner-login span{
+.Formulario-login span{
     font-size: var(--size3);
-    font-weight: 0;
-    color: var(--Blanco);
+    color: var(--GrisOscuro);
+    margin-bottom: 3rem;
 }
 
 .Formulario-login{
     background-color: var(--Blanco);
     border-radius: 4rem 4rem 0rem 0rem;
     padding: 3rem;
+    margin-top: 1rem;
 
 }
 
