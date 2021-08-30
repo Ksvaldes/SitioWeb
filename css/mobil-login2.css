@@ -8,13 +8,13 @@
     align-items: center;
 }
 .login img{
-    width: 30rem;
-    align-items: center;
-    margin: auto;
-    position:absolute;
-    z-index: 1;
-    top: 40px;
-    left : 60px;
+    width: 30.5rem;
+    margin-top: -4.5rem;
+    position: absolute;
+    align-self: center;
+
+    
+
 
 
 }

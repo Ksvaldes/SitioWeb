@@ -1,6 +1,7 @@
 .Principal{
     background-color: #7292cf;
     background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
+    
 
     display: flex;
     flex-direction: column;
@@ -9,10 +10,11 @@
 }
 
 .Titulo{
-    width: 12.6rem;
-    margin-top: 16.1rem;
+    width: 12.4rem;
+    margin-top: 9rem;
 }
 
 .Imagen{
-    margin-top: 17rem;
+    width: 25.5rem;
+    margin-top: 15rem;
 }
