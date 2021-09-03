@@ -1,0 +1,160 @@
+.BG-login{
+    background-color: #7292cf;
+    background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
+    padding-top: 10rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+.Titulos{
+    width: 95%;
+    margin-top: -9rem;
+}
+.Titulos h2{
+    color: var(--Blanco);
+    font-size: var(--size1);
+    font-weight: 600;
+    text-align: start;
+
+}
+.Titulos span{
+    font-size: var(--size3);
+    color: var(--Blanco);
+    margin-bottom: 3rem;
+}
+.circulo{
+    width:  70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: var(--GrisClaro);
+    margin-top: 1.5rem;
+    position: absolute;
+    align-self: flex-end;
+    border: 3px solid #fff;
+
+}
+.barra{
+    width:  90px;
+    height: auto;
+    border-radius: 40px;
+    background-color: var(--Blanco);
+    position: absolute;
+    margin-top: 8rem;
+    
+
+}
+.barra p{
+    text-align: center;
+    color: var(--Celeste);
+    font-size: var(--Parrafo);
+}
+.FondoBlanco{
+    background-color: var(--Blanco);
+    border-radius:4rem 4rem 0rem 0rem;
+    padding: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+
+}
+.CubosLargos{
+    width: auto;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+    position: absolute;
+    margin-top: -10rem;
+    
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.CubosLargos div{
+    width: 145px;
+    height: 187px;
+    border-radius: 15px;
+    border: 1px solid #345Fb4;
+    box-sizing: border-box;
+    background-color:var(--Blanco);
+    margin: 1rem;
+    
+}
+.CirculoDentro{
+    width:  70px;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+
+}
+.Texto{
+    width:  10rem;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+
+}
+.Texto2{
+    width:  8rem;
+}
+.TextoAbajo{
+    padding: 1rem;
+    padding-left: 1.5rem;
+    font-size: var(--Parrafo);
+    color: var(--GrisClaro);
+}
+.Cubo{
+    padding-top: 12rem;
+}
+.Cubos{
+    width: auto;
+    height: auto;
+    margin: auto;
+    box-sizing: border-box;
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Cubos div{
+    width: 145px;
+    height: 145px;
+    box-sizing: border-box;
+    background-color: #EBF1F4;
+    margin: 1rem;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-radius: 15px;
+    
+}
+.CuadrosDentro{
+    width:  40px;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+
+}
+.Negro{
+    padding: 1rem;
+    padding-left: 1.4rem;
+    margin-top: 1rem;
+    font-weight: 300;
+    text-align: start;
+    font-size: var(--Parrafo);
+    color: var(--GrisOscuro);
+}
+.Opcion2{
+    width:  30px;
+}
+.Opcion3{
+    width:  70px;
+}
