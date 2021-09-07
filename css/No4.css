@@ -1,0 +1,155 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.BG-login{
+    background-color: #7292cf;
+    background-image: linear-gradient(160deg, #7292cf 0%, #2855ae 100%);
+    padding-top: 3rem;
+    padding-bottom: 65.2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.login img{
+    width: 30.5rem;
+    margin-top: 2rem;
+    align-self: center;
+}
+.Atras img{
+    width: 1.5rem;
+    margin-top: -1.5rem;
+    position: absolute;
+    align-items: flex-start;
+}
+.Atras p{
+    font-size: var(--size3);
+    font-weight: 600;
+    text-align: start;
+    color: var(--Blanco);
+    margin-top: -1.5rem;
+    margin-left: 3rem;
+    
+}
+.Done{
+    width: 10rem;
+    height: 3rem;
+    margin-top: -10rem;
+    background-color: var(--Blanco);
+    border-radius: 15px;
+    margin-left: 20rem;
+
+    display: flex;
+    flex-direction: row;
+
+}
+.Done p{
+    color: var(--Celeste);
+    font-size: var(--Parrafo);
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-weight: bolder;
+}
+.Done img{
+    width: 1.5rem;
+    margin-top: -0.2rem;
+    margin-left: 1rem;
+}
+.FondoBlanco{
+    background-color: var(--Blanco);
+    border-radius: 4rem 4rem 0rem 0rem;
+    padding: 3rem;
+    margin-top: 10rem;
+    position: absolute;
+
+}
+.Cuadro{
+    width: 31.5rem;
+    height: 9.5rem;
+    border: 1px solid #2855ae;
+    border-radius: 12px;
+    box-sizing: border-box;
+
+}
+.Figura{
+    margin: 1rem;
+}
+.Camara{
+    margin-bottom: 6.5rem;
+    margin-left: 19rem;
+    
+}
+.Letras h3{
+    font-size: Var(--size3);
+    color: var(--GrisOscuro);
+    margin-left: 11rem;
+    margin-top: -8rem;
+    font-weight: bolder;
+}
+.Letras p{
+    font-size: Var(--Parrafo);
+    color: var(--GrisOscuro);
+    margin-left: 11rem;
+    margin-top: 1rem;
+}
+.Columna3{
+    margin-top: 2rem;
+    width: 31rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+.Columna3 .Primero{
+    width: 15rem;
+    margin-right: 5rem;
+    margin-left: -1rem;
+
+}
+.Columna3 .Segundo{
+    width: 15rem;
+
+}
+.Columna3 .Gris{
+    font-size: var(--Pequeño);
+    color: var(--GrisClaro);
+    text-align: start;
+    font-weight: bold;
+
+}
+.Columna3 .Negro{
+    width: 15rem;
+    margin-top: 1rem;
+    font-size: 14.5px;
+    color: var(--GrisOscuro);
+    text-align: start;
+    font-weight: bold;
+    border-bottom: 1px solid #7777;
+    padding-bottom: 1rem;
+
+}
+.Columna3 .Negro2{
+    width: 14rem;
+}
+.Columna3 .img1{
+    position: absolute;
+    margin-left: 13rem;
+    margin-top: 2rem;
+}
+.Columna3 .img2{
+    position: absolute;
+    margin-left: 11rem;
+    margin-top: 2rem;
+}
+.Columna3 .Largo{
+    width: 34rem;
+    margin-top: 1rem;
+    font-size: 14.5px;
+    color: var(--GrisOscuro);
+    text-align: start;
+    font-weight: bold;
+    border-bottom: 1px solid #7777;
+    padding-bottom: 1rem;
+}
+.Columna3 .img3{
+    margin-left: 31rem;
+}
