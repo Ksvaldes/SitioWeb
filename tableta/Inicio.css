@@ -1,0 +1,10 @@
+@media(min-width: 768px){
+    .Titulo{
+        width: 35rem;
+        margin-top: 12rem;
+    }
+    .Imagen{
+        width: 45rem;
+        margin-top: 17rem;
+    }
+}

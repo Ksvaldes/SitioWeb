@@ -30,12 +30,15 @@
     background-color: var(--Blanco);
     border-radius: 4rem 4rem 0rem 0rem;
     padding: 3rem;
+    padding-top: 2rem;
+    height: 300px;
 
 }
 
 .Formulario{
     width: 31.5rem;
     margin: auto;
+    margin-top: 2rem;
     
     display: flex;
     flex-direction: column;

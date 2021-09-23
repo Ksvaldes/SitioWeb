@@ -1,0 +1,64 @@
+@media(min-width: 1280px){
+    
+n
+    .Cambio{
+
+        display: flex;
+        flex-direction: row;
+        ju
+    }
+
+
+
+
+
+    .banner-login img{
+        width: 50rem;
+        padding-right: 1rem;
+        display: flex;
+        align-self:center;
+    
+    }
+    section{
+        min-width: 700px;
+    }
+    .banner-login h2{
+        font-size: 6rem;
+    
+    
+    }
+    .banner-login span{
+        font-size:3rem;
+    }
+    .Formulario-login{
+        min-width: 765px;
+        height: 300px;
+    
+    }
+    
+    .Formulario{
+        width: 65rem;
+        margin-top: 9rem;
+    
+    }
+    
+    .Label-formulario{
+        font-size: 3.5rem;
+    
+    }
+    
+    .Formulario-boton{
+        width: 40%;
+        margin: auto;
+     
+    
+    }
+    .Mensaje{
+        margin-top: 3rem;
+        font-size: 2.5rem;
+    
+    }
+
+
+
+}

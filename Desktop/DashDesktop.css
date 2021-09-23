@@ -1,0 +1,70 @@
+ @media(min-width: 1280px){
+    .Titulos{
+        min-width: 1200px;
+    }
+    .Titulos h2{
+        margin-top: -3rem;
+    }
+    .FondoBlanco{
+        max-width: 1000rem;
+        margin-top: -12rem;
+         
+     }
+     .CubosLargos div{
+        width: 300px;
+        height: 220px;
+        display: flex;
+        flex-direction: column;
+        
+
+     }
+     .CirculoDentro{
+        width:  90px;
+        padding-top: 1rem;
+        margin: auto;
+    }
+    .Texto{
+        width:  12.5rem;
+        margin-top: 2rem;
+        margin: auto;
+    }
+    .Texto2{
+        width:  10rem;
+        margin: auto;
+    }
+    .TextoAbajo{
+        font-size:3.5rem;
+        text-align: center;
+
+        
+    }
+    .Cubo{
+        padding-top: 12rem;
+    }
+    .Cubos div{
+        width: 200px;
+        height: 200px;
+    }
+    .Negro{
+        font-size: 2.5rem;
+    }
+    .CuadrosDentro{
+        width:  80px;
+        margin-top: 2rem;
+        margin-left: 2rem;
+        margin-bottom: 1rem;
+    }
+    .CuadrosDentro1{
+        width:  80px;
+        margin-top: 2rem;
+        margin-left: 2rem;
+        margin-bottom: 1rem;
+    }
+    .Opcion2{
+        width:  50px;
+    }
+    .Opcion3{
+        width:  100px;
+        margin-bottom: 2.5rem;
+    }
+ }

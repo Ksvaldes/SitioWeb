@@ -1,0 +1,61 @@
+@media(min-width: 768px){
+
+    .Titulos{
+        min-width: 700px;
+    }
+    .FondoBlanco{
+       max-width: 1000rem;
+        
+    }
+    .CubosLargos div{
+        width: 280px;
+        height: 350px;
+        margin-top: -10px;
+        
+    }
+    .CirculoDentro{
+        width:  160px;
+        margin-top: 2rem;  
+    }
+    .Texto{
+        width:  12.5rem;
+        margin-top: 2rem;
+    }
+    .Texto2{
+        width:  10rem;
+    }
+    .TextoAbajo{
+        font-size:3.5rem;
+        
+    }
+    .Cubo{
+        padding-top: 25rem;
+    }
+    .Cubos div{
+        width: 280px;
+        height: 280px;
+    }
+    .Negro{
+        font-size: 3rem;
+    }
+    .CuadrosDentro{
+        width:  110px;
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+    }
+    .CuadrosDentro1{
+        width:  120px;
+        margin-top: 3rem;
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+    }
+    .Opcion2{
+        width:  80px;
+    }
+    .Opcion3{
+        width:  180px;
+        margin-bottom: 2.5rem;
+    }
+
+}
