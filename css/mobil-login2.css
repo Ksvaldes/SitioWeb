@@ -15,11 +15,6 @@
     margin-top: -4.5rem;
     position: absolute;
     align-self: center;
-
-    
-
-
-
 }
 .Formulario-login h2{
     color: var(--GrisOscuro);
@@ -39,6 +34,7 @@
     border-radius: 4rem 4rem 0rem 0rem;
     padding: 3rem;
     margin-top: 1rem;
+    height: 525px;
 
 }
 

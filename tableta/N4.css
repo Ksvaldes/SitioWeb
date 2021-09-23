@@ -1,0 +1,42 @@
+@media(min-width: 768px){
+
+    .BG-login{
+        height: 100%;
+    }
+    .login{
+        min-width: 80%;
+        margin-top: 2rem;
+
+    }
+    .FondoBlanco{
+        margin-top: 30%;
+        min-width: 80%;
+        height: 74.5%;
+   
+    }
+    .Done{
+        width: 15rem;
+        height: 4rem;
+        border-radius: 20px;
+        margin-left: 50rem;
+    
+        display: flex;
+        flex-direction: row;
+    }    
+    .Done img{
+        width: 1.5rem;
+        margin-top: -0.2rem;
+        margin-left: 1rem;
+    }
+    .Done p{
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+}

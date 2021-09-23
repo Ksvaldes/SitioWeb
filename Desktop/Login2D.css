@@ -1,0 +1,50 @@
+@media(min-width: 1280px){
+
+    .BG-login{
+        height: 100%;
+    }
+    .login img{
+        width: 50rem;
+        margin-top: -10rem;
+
+    }
+    .Formulario-login h2{
+        font-size: 3.5rem;
+        margin-top: -1rem;
+    }
+    .Formulario-login span{
+        font-size: 1.7rem;
+    }
+    .Formulario-login{
+        min-width: 70%;
+        height: 70%;
+        border-radius: 40px;
+
+    }
+    .Formulario{
+        width: 90%;
+    }
+    .Label-formulario{
+        font-size: 1.8rem;
+    }
+    .Label-formulario input{
+         font-size: 1.5rem  ;
+    }
+    .Formulario-boton{
+        font-size: 2rem;
+        width: 40%;
+        margin: auto;
+    }
+    .Mensaje{
+        font-size: 2rem;
+        margin-right: -3rem;
+        margin-top: -2rem;
+    }
+
+
+
+
+
+
+
+}
