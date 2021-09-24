@@ -8,15 +8,20 @@
         margin-top: 2rem;
 
     }
+    .estrellas{
+        min-width: 5;
+    }
     .FondoBlanco{
-        margin-top: 30%;
+        margin-top: 20%;
         min-width: 80%;
-        height: 74.5%;
+        height: 80%;
+        border-radius: 40px;
    
     }
     .Done{
         width: 15rem;
         height: 4rem;
+        margin-top: -12rem; 
         border-radius: 20px;
         margin-left: 50rem;
     
@@ -26,12 +31,79 @@
     .Done img{
         width: 1.5rem;
         margin-top: -0.2rem;
-        margin-left: 1rem;
+        margin-left: 1.5rem;
     }
     .Done p{
         text-align: center;
+        margin-left:  2rem;
+        font-size: 20px; 
     }
+    .Atras p{
+        font-size: 28px;
+        margin-top: -2rem;
 
+    }
+    .Cuadro{
+        width: 85%;
+        height: 70%;
+        margin: auto;
+        margin-top: -0.1rem;
+    
+    }
+    .Figura{
+        margin: 1rem;
+        width: 10rem;
+        margin-top: 2rem;
+    }
+    .Camara{
+        margin-top: -11rem;
+        margin-left: 42rem;
+        width: 3.5rem; 
+    }
+    .Letras h3{
+        font-size: 28px;
+        margin-left: 14rem;
+    }
+    .Letras p{
+        font-size: 22px;
+        margin-left: 14rem;
+    }
+    .Columna3{
+        width: 100%;
+    }
+    .Columna3 .Primero{
+        width: 20rem;
+        margin-right: 10rem;
+    }
+    .Columna3 .Segundo{
+        width: 18rem;
+    }
+    .Columna3 .Gris{
+        font-size: 1.7rem;
+    }
+    .Columna3 .Negro{
+        font-size: 2rem;
+        width: 28rem;
+    }
+    .Columna3 .Negro2{
+        width: 27rem;
+        border-bottom: 1px solid #7777;
+    }
+    .Columna3 .Largo{
+        width: 58rem;
+        font-size: 2rem;
+    }
+    .Columna3 .img1{
+        margin-left: 26rem;
+    }
+    .Columna3 .img2{
+        position: absolute;
+        margin-left: 25rem;
+        margin-top: 2rem;
+    }
+    .Columna3 .img3{
+        margin-left: 55rem;
+    }
 
 
 
