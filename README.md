@@ -53,7 +53,7 @@ Docente: Josué Fuentes <br>
 
 # DOCUMENTACIÓN
 
-Entra a este link para ver mi glosario !
+Entra a estos links para ver mi proyecto !
 
 Enlace #1
 https://ksvaldes.github.io/SitioWeb/
@@ -69,8 +69,6 @@ https://ksvaldes.github.io/SitioWeb/Dash
 
 Enlace#5
 https://ksvaldes.github.io/SitioWeb/No4
-
-<img width="380px" src="ejemplos/fondoIndex/etiquetas_basicas/img1.JPG">
 
 # OBJETIVOS FUTUROS
 
