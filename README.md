@@ -1,6 +1,5 @@
 # PORTAFOLIO IV PERIODO 2021
-<img width="100%" src="https://i.pinimg.com/564x/19/9a/bd/199abda2550f49223b703a826aa09474.jpg">
-<img width="20%" src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
+<img width="100%" src="Img/ImagenPortadac.jpg">
 
 
 # INFORMACIÓN PERSONAL
@@ -13,82 +12,38 @@ Docente: Josué Fuentes <br>
 # ÍNDICE
 
 <ul>
-  <li><a href="index.html">Homepage</a>
+  <li><a href="https://ksvaldes.github.io/SitioWeb/">Inicio</a>
     <ul>
-      <li>Banner
-        <ul>
-          <li>Boton inicio</li>
-          <li>Boton glosario</li>
-          <li>Frase Motivadora</li>
-          <li>Boton para ir a mi perfil</li>
-          <li>Boton para ir a mi readme de github</li>
-        </ul>
-      </li>    
+      <li>Portada</li>    
     </ul>
   
   </li>
-  <li><a href="glosario.html">Glosario</a>
+  <li><a href="https://ksvaldes.github.io/SitioWeb/login">Login1</a>
     <ul>
-      <li>Contenido
-        <ul><li>Menu para rápido acceso a información
-      <ul>
-        <li>EStructura Básica
-          <ul>
-            <li>Definición</li>
-            <li>Propiedades útiles para la etiqueta</li>
-            <li>Ejemplos</li>
-          </ul>
-        </li>
-      <li>Etiquetas HTML dirigidas al texto
-          <ul>
-            <li>Definición</li>
-            <li>Propiedades útiles para la etiqueta</li>
-            <li>Ejemplos</li>
-          </ul>
-        </li>
-      <li>Etiquetas HTML dirigidas a objetos
-          <ul>
-            <li>Definición</li>
-            <li>Propiedades útiles para la etiqueta</li>
-            <li>Ejemplos</li>
-          </ul>
-        </li>
-      <li>Propiedades css dirigidas a texto
-          <ul>
-            <li>Definición</li>
-            <li>Propiedades útiles para la etiqueta</li>
-            <li>Ejemplos</li>
-          </ul>
-        </li>
-      <li>Propiedades dirigidas a objetos
-          <ul>
-            <li>Definición</li>
-            <li>Propiedades útiles para la etiqueta</li>
-            <li>Ejemplos</li>
-          </ul>
-        </li>
-      </ul>
-     </li>
-          <li>Footer
-            <ul>
-              <li>Mi nombre completo y grado</li>
-            </ul>
-          </li>
-    </ul>
-      </li>
+      <li>Inicio Sesión</li>
     </ul>
   </li>
+    <li><a href="https://ksvaldes.github.io/SitioWeb/login2">Login2</a>
+    <ul>
+      <li>Inicio Sesión</li>
+    </ul>
+  </li>
+      <li><a href="https://ksvaldes.github.io/SitioWeb/login2">Login2</a>
+    <ul>
+      <li>Inicio Sesión</li>
+    </ul>
+  </li>
+  
 </ul>
 
 # OBJETIVOS
 
 <ol>
   <li>Hacer que esta página web logre ser responsive al 100%, sin ningún problema.</li>
-  <li>Mantener mi Glosario y Homepage de una manera organizada y legible.</li>
+  <li>Poder realizar un trabajo 100% identico al modelo </li>
   <li>Hacer mi página web atractiva y llamativa para los demás usuarios.</li>
 </ol>
 
-<img width="20%" src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
 
 # DOCUMENTACIÓN
 
