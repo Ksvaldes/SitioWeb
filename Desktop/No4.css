@@ -1,0 +1,119 @@
+@media(min-width: 1280px){
+    .BG-login{
+        height: 1000px;
+        
+    }
+    .login{
+        min-width: 90%;
+        margin-top: 2rem;
+
+    }
+    .estrellas{
+        min-width: 90rem;
+        margin-top: -5rem;
+    }
+    .FondoBlanco{
+        margin-top: 10%;
+        min-width: 60%;
+        height: 110%;
+        border-radius: 40px;
+   
+    }
+    .Done{
+        width: 10rem;
+        height: 3rem;
+        margin-top: -25rem; 
+        border-radius: 20px;
+        margin-left: 110rem;
+    
+        display: flex;
+        flex-direction: row;
+    }    
+    .Done img{
+        width: 1.5rem;
+        margin-top: -0.2rem;
+        margin-left: 1.5rem;
+    }
+    .Done p{
+        text-align: center;
+        margin-left:  1rem;
+        font-size: 16px; 
+    }
+    .Atras img{
+        width: 1rem;
+        margin-top: -6rem;
+    }
+    .Atras p{
+        font-size: 18px;
+        margin-top: -6.5rem;
+
+    }
+    .Cuadro{
+        width: 82%;
+        height: 40%;
+        margin: auto;
+        margin-top: -0.1rem;
+    
+    }
+    .Figura{
+        margin: 1rem;
+        width: 7rem;
+        margin-left: 2rem;
+        margin-top: 1rem;
+    }
+    .Camara{
+        margin-top: -8rem;
+        margin-left: 56rem;
+        width: 2.5rem; 
+    }
+    .Letras h3{
+        font-size: 18px;
+        margin-left: 12rem;
+    }
+    .Letras p{
+        font-size: 15px;
+        margin-left: 12rem;
+        margin-bottom: 2rem;
+    }
+    .Columna3{
+        width: 100%;
+    }
+    .Columna3 .Primero{
+        width: 20rem;
+        margin-right: 10rem;
+        margin-left:2.5rem;
+
+    }
+    .Columna3 .Segundo{
+        width: 18rem;
+        margin-left: 13rem;
+    }
+    .Columna3 .Gris{
+        font-size: 1.3rem;
+    }
+    .Columna3 .Negro{
+        font-size: 1.5rem;
+        width: 40rem;
+
+    }
+    .Columna3 .Negro2{
+        width: 27rem;
+        border-bottom: 1px solid #7777;
+    }
+    .Columna3 .Largo{
+        width: 70rem;
+        font-size: 1.5rem;
+    }
+    .Columna3 .img1{
+        margin-left: 38rem;
+    }
+    .Columna3 .img2{
+        position: absolute;
+        margin-left: 25rem;
+        margin-top: 2rem;
+    }
+    .Columna3 .img3{
+        margin-left: 68rem;
+    }
+
+} 
