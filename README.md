@@ -28,9 +28,15 @@ Docente: Josué Fuentes <br>
       <li>Inicio Sesión</li>
     </ul>
   </li>
-      <li><a href="https://ksvaldes.github.io/SitioWeb/login2">Login2</a>
+      <li><a href="https://ksvaldes.github.io/SitioWeb/Dash">Información</a>
     <ul>
-      <li>Inicio Sesión</li>
+      <li>Datos</li>
+    </ul>
+  </li>
+    </li>
+      <li><a href="https://ksvaldes.github.io/SitioWeb/No4">Perfil</a>
+    <ul>
+      <li>Información</li>
     </ul>
   </li>
   
