@@ -11,20 +11,22 @@
     .estrellas{
         min-width: 90rem;
         margin-top: -5rem;
+        position: absolute;
     }
     .FondoBlanco{
-        margin-top: 10%;
+        margin-top: 15px;
         min-width: 60%;
         height: 110%;
+        margin-right: -40rem;
         border-radius: 40px;
    
     }
     .Done{
         width: 10rem;
         height: 3rem;
-        margin-top: -25rem; 
+        margin-top: 60rem; 
         border-radius: 20px;
-        margin-left: 110rem;
+        margin-left: 0.5rem;
     
         display: flex;
         flex-direction: row;
